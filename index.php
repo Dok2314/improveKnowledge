@@ -2,4 +2,4 @@
 
 echo 'Hello world';
 
-echo 'Just for test';
+echo 'Just for test updated';
